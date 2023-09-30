@@ -11,7 +11,7 @@
 
 
 ## Introduction
-Welcome to my GitHub repository! This project is focused on the task of generating descriptive captions for images, implemented using a combination of Convolutional Neural Networks (CNNs) for feature extraction and Recurrent Neural Networks (RNNs) for caption generation. 
+Welcome to my GitHub repository! This project is focused on the task of generating descriptive captions for images. The model leverages Convolutional Neural Networks (CNNs), specifically using a ResNet-50 architecture, to extract salient features from images. These features are then used to generate corresponding captions that aim to describe the content of the images accurately. The project offers a comprehensive solution for the automatic generation of image captions, incorporating feature extraction, data preprocessing, model training, and evaluation.
 
 ## Technologies
 - Python 3.x

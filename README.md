@@ -8,8 +8,7 @@
 - [Features](#features)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 Welcome to my GitHub repository! This project is focused on the task of generating descriptive captions for images, implemented using a combination of Convolutional Neural Networks (CNNs) for feature extraction and Recurrent Neural Networks (RNNs) for caption generation. 
@@ -49,11 +48,7 @@ This repository features a Google Colab Notebook named `Image_Caption_Generation
 1. Navigate to the Google Colab Notebook in the repository.
 2. Follow the instructions within the notebook to train and evaluate the model.
 
-## Contributing
-Contributions to this project are welcomed. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
-## License
-This project is licensed under the MIT License. Please see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
